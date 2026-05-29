@@ -1,0 +1,1 @@
+Create an interactive Tableau dashboard and story that analyzes global sales performance for a multinational retail company. Transform raw sales data into compelling visual narratives that reveal regional performance, product trends, customer segments, and actionable business insights for stakeholders at different levels of the organization.
